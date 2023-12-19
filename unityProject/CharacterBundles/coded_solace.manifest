@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 1530351064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22482b7b9c1782003ac21b30e647060a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2fbbf2cbb3499c83fe9d82cc30186790
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2121682938, guid: c08f7323211fb684dbfca4c932627286, type: 3}
+- Class: 114
+  Script: {fileID: -2057371607, guid: c08f7323211fb684dbfca4c932627286, type: 3}
+- Class: 114
+  Script: {fileID: -592915721, guid: c08f7323211fb684dbfca4c932627286, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Characters/Coded/textures/coded/evaCodedTex.png
+- Assets/Characters/Coded/voice/VOICE_E_13.wav
+- Assets/Characters/Coded/voices/oof.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE37_ACT01_E39_SN_aif.wav
+- Assets/Characters/Coded/textures/coded/pinkertonCodedTex.png
+- Assets/Characters/Coded/textures/super sonic/ssn_00.png
+- Assets/Characters/Coded/voices/giggle.wav
+- Assets/Characters/Coded/voice/Sonic_Fall.wav
+- Assets/Characters/Coded/outfits/sonic_body_outfit2.mat
+- Assets/Characters/Coded/voices/ouch.wav
+- Assets/Characters/Coded/coded.fbx
+- Assets/Characters/Coded/voice/ALL01_E16_SN.wav
+- Assets/Characters/Coded/outfits/standard/sonic_body.mat
+- Assets/Characters/Coded/textures/sonic/snc_b.png
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE39_ACT01_E41_SN_aif.wav
+- Assets/Characters/Coded/voice/VOICE_E_14.wav
+- Assets/Characters/Coded/voice/Sonic_RoundWin.wav
+- Assets/Characters/Coded/voices/bringit.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE20_ACT01_E21_SN_aif.wav
+- Assets/Characters/Coded/voices/letsgo.wav
+- Assets/Characters/Coded/voices/idontknowwhatiamdoing2.wav
+- Assets/Characters/Coded/voices/bringit-2.wav
+- Assets/Characters/Coded/voice/Sonic_RoundStart.wav
+- Assets/Characters/Coded/textures/coded/Default-Material 3.mat
+- Assets/Characters/Coded/voices/ouchmybones.wav
+- Assets/Characters/Coded/voice/Sonic_TrickSuccess.wav
+- Assets/Characters/Coded/coded_character.prefab
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE09_ACT01_E04_SN_aif.wav
+- Assets/Characters/Coded/sr.png
+- Assets/Characters/Coded/voice/VOICE_E_8.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE11_ACT01_E06_SN_aif.wav
+- Assets/Characters/Coded/voice/Sonic_Jump.wav
+- Assets/Characters/Coded/voices/nice2.wav
+- Assets/Characters/Coded/voice/VOICE_E_18.wav
+- Assets/Characters/Coded/voices/cry.wav
+- Assets/Characters/Coded/voice/ALL01_E09_SN.wav
+- Assets/Characters/Coded/textures/sonic/snc_outfit2.png
+- Assets/Characters/Coded/textures/coded/Default-Material 1.mat
+- Assets/Characters/Coded/voice/Sonic_Hurt.wav
+- Assets/Characters/Coded/voices/idontknowwhatiamdoing1.wav
+- Assets/Characters/Coded/voices/yes1.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE13_ACT01_E03_SN_aif.wav
+- Assets/Characters/Coded/voices/thesevoicelines.wav
+- Assets/Characters/Coded/voices/goingup.wav
+- Assets/Characters/Coded/outfits/sonic_body_outfit3.mat
+- Assets/Characters/Coded/textures/super sonic/sps_b.png
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE12_ACT01_E07_SN_aif.wav
+- Assets/Characters/Coded/voices/nice1.wav
+- Assets/Characters/Coded/voice/Sonic_TrickStart.wav
+- Assets/Characters/Coded/voices/oweeyyyy.wav
+- Assets/Characters/Coded/textures/coded/Default-Material.mat
+- Assets/Characters/Coded/voice/VOICE_E_23.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE10_ACT01_E05_SN_aif.wav
+- Assets/Characters/Coded/textures/coded/Default-Material 2.mat
+- Assets/Characters/Coded/outfits/standard/super_shoes.mat
+- Assets/Characters/Coded/textures/graffiti.png
+- Assets/Characters/Coded/voice/ALL01_E06_SN.wav
+- Assets/Characters/Coded/outfits/standard/sonic_glasses.mat
+- Assets/Characters/Coded/outfits/standard/sonic_shoe.mat
+- Assets/Characters/Coded/textures/sonic/snc_gl_e.png
+- Assets/Characters/Coded/textures/sonic/snc.png
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE03_ACT01_E35_SN_aif.wav
+- Assets/Characters/Coded/voice/Synth_B3E_SN_VSNE36_ACT01_E38_SN_aif.wav
+- Assets/Characters/Coded/voices/itson.wav
+- Assets/Characters/Coded/voices/yeah1.wav
+- Assets/Characters/Coded/voice/Sonic_Attack.wav
+- Assets/Characters/Coded/textures/super sonic/ssn_00_outfit3.png
+- Assets/Characters/Coded/textures/sonic/snc_gl.png
+- Assets/Characters/Coded/sr2.png
+- Assets/Characters/Coded/textures/sonic/snc_e.png
+- Assets/Characters/Coded/voices/yup.wav
+- Assets/Characters/Coded/outfits/standard/super_body.mat
+- Assets/Characters/Coded/graffiti.mat
+Dependencies: []
